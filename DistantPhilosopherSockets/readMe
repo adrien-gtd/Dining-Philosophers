@@ -1,0 +1,15 @@
+Socket version of the dinning philosophers.
+
+First compile the java files into the bin folders: 
+javac -d ./bin *.java
+
+Start the server:
+java -cp ./bin Server
+Note that the server will be listenning on ports 80 - 84
+
+Start the client, in another terminal
+java -cp ./bin Client
+
+Stop the exectution with ctrl + C on the client. The program will stop its execution nicely and 
+display the number of meals eaten by each philosopher.
+One can find the logs of the execution in the log folder

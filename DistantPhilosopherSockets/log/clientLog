@@ -1,0 +1,377 @@
+Philosopher 2 : Thinking
+Philosopher 0 : Thinking
+Philosopher 3 : Thinking
+Philosopher 1 : Thinking
+Philosopher 4 : Thinking
+Philosopher 0 : Picked up left fork
+Philosopher 3 : Picked up left fork
+Philosopher 1 : Picked up left fork
+Philosopher 1 : Picked up right fork
+Philosopher 1 : Eating meal number 1
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 1
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 3 : Thinking
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 0 : Picked up right fork
+Philosopher 1 : Thinking
+Philosopher 2 : Picked up left fork
+Philosopher 0 : Eating meal number 1
+Philosopher 3 : Picked up left fork
+Philosopher 0 : Put down forks, back to thinking!
+Philosopher 4 : Picked up left fork
+Philosopher 1 : Picked up left fork
+Philosopher 0 : Thinking
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 2
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 4 : Picked up right fork
+Philosopher 2 : Picked up right fork
+Philosopher 4 : Eating meal number 1
+Philosopher 3 : Thinking
+Philosopher 2 : Eating meal number 1
+Philosopher 0 : Picked up left fork
+Philosopher 4 : Put down forks, back to thinking!
+Philosopher 4 : Thinking
+Philosopher 1 : Picked up right fork
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 3 : Picked up left fork
+Philosopher 2 : Thinking
+Philosopher 1 : Eating meal number 2
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 0 : Picked up right fork
+Philosopher 1 : Thinking
+Philosopher 0 : Eating meal number 2
+Philosopher 0 : Put down forks, back to thinking!
+Philosopher 1 : Picked up left fork
+Philosopher 0 : Thinking
+Philosopher 4 : Picked up left fork
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 3
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 4 : Picked up right fork
+Philosopher 2 : Picked up right fork
+Philosopher 3 : Thinking
+Philosopher 2 : Eating meal number 2
+Philosopher 4 : Eating meal number 2
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 1 : Picked up right fork
+Philosopher 2 : Thinking
+Philosopher 1 : Eating meal number 3
+Philosopher 0 : Picked up left fork
+Philosopher 4 : Put down forks, back to thinking!
+Philosopher 4 : Thinking
+Philosopher 3 : Picked up left fork
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 4
+Philosopher 2 : Picked up left fork
+Philosopher 0 : Picked up right fork
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 0 : Eating meal number 3
+Philosopher 1 : Thinking
+Philosopher 0 : Put down forks, back to thinking!
+Philosopher 4 : Picked up left fork
+Philosopher 0 : Thinking
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 3 : Thinking
+Philosopher 2 : Picked up right fork
+Philosopher 2 : Eating meal number 3
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Picked up right fork
+Philosopher 4 : Eating meal number 3
+Philosopher 3 : Picked up left fork
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 2 : Thinking
+Philosopher 1 : Picked up right fork
+Philosopher 1 : Eating meal number 4
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 1 : Thinking
+Philosopher 4 : Put down forks, back to thinking!
+Philosopher 0 : Picked up left fork
+Philosopher 4 : Thinking
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 5
+Philosopher 2 : Picked up left fork
+Philosopher 1 : Picked up left fork
+Philosopher 2 : Picked up right fork
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 2 : Eating meal number 4
+Philosopher 3 : Thinking
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 2 : Thinking
+Philosopher 1 : Picked up right fork
+Philosopher 1 : Eating meal number 5
+Philosopher 3 : Picked up left fork
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 6
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 2 : Picked up left fork
+Philosopher 0 : Picked up right fork
+Philosopher 1 : Thinking
+Philosopher 0 : Eating meal number 4
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 3 : Thinking
+Philosopher 4 : Picked up left fork
+Philosopher 1 : Picked up left fork
+Philosopher 0 : Put down forks, back to thinking!
+Philosopher 0 : Thinking
+Philosopher 4 : Picked up right fork
+Philosopher 4 : Eating meal number 4
+Philosopher 2 : Picked up right fork
+Philosopher 2 : Eating meal number 5
+Philosopher 1 : Picked up right fork
+Philosopher 3 : Picked up left fork
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 1 : Eating meal number 6
+Philosopher 2 : Thinking
+Philosopher 0 : Picked up left fork
+Philosopher 4 : Put down forks, back to thinking!
+Philosopher 4 : Thinking
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 7
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 1 : Thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 3 : Thinking
+Philosopher 0 : Picked up right fork
+Philosopher 0 : Eating meal number 5
+Philosopher 2 : Picked up right fork
+Philosopher 2 : Eating meal number 6
+Philosopher 0 : Put down forks, back to thinking!
+Philosopher 4 : Picked up left fork
+Philosopher 1 : Picked up left fork
+Philosopher 0 : Thinking
+Philosopher 4 : Picked up right fork
+Philosopher 4 : Eating meal number 5
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 3 : Picked up left fork
+Philosopher 2 : Thinking
+Philosopher 2 : Picked up left fork
+Philosopher 4 : Put down forks, back to thinking!
+Philosopher 4 : Thinking
+Philosopher 4 : Picked up left fork
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 8
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 3 : Thinking
+Philosopher 2 : Picked up right fork
+Philosopher 2 : Eating meal number 7
+Philosopher 4 : Picked up right fork
+Philosopher 4 : Eating meal number 6
+Philosopher 4 : Put down forks, back to thinking!
+Philosopher 4 : Thinking
+Philosopher 0 : Picked up left fork
+Philosopher 1 : Picked up right fork
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 1 : Eating meal number 7
+Philosopher 2 : Thinking
+Philosopher 3 : Picked up left fork
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 9
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 3 : Thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 0 : Picked up right fork
+Philosopher 1 : Thinking
+Philosopher 0 : Eating meal number 6
+Philosopher 2 : Picked up right fork
+Philosopher 2 : Eating meal number 8
+Philosopher 3 : Picked up left fork
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 2 : Thinking
+Philosopher 4 : Picked up left fork
+Philosopher 0 : Put down forks, back to thinking!
+Philosopher 1 : Picked up left fork
+Philosopher 0 : Thinking
+Philosopher 4 : Picked up right fork
+Philosopher 4 : Eating meal number 7
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 10
+Philosopher 0 : Picked up left fork
+Philosopher 4 : Put down forks, back to thinking!
+Philosopher 4 : Thinking
+Philosopher 2 : Picked up right fork
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 2 : Eating meal number 9
+Philosopher 3 : Thinking
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 2 : Thinking
+Philosopher 1 : Picked up right fork
+Philosopher 1 : Eating meal number 8
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 1 : Thinking
+Philosopher 0 : Picked up right fork
+Philosopher 0 : Eating meal number 7
+Philosopher 2 : Picked up left fork
+Philosopher 4 : Picked up left fork
+Philosopher 0 : Put down forks, back to thinking!
+Philosopher 0 : Thinking
+Philosopher 3 : Picked up left fork
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 11
+Philosopher 4 : Picked up right fork
+Philosopher 2 : Picked up right fork
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 2 : Eating meal number 10
+Philosopher 4 : Eating meal number 8
+Philosopher 3 : Thinking
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 1 : Picked up right fork
+Philosopher 2 : Thinking
+Philosopher 1 : Eating meal number 9
+Philosopher 4 : Put down forks, back to thinking!
+Philosopher 0 : Picked up left fork
+Philosopher 4 : Thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 : Picked up left fork
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 1 : Thinking
+Philosopher 0 : Picked up right fork
+Philosopher 0 : Eating meal number 8
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 12
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 3 : Thinking
+Philosopher 2 : Picked up right fork
+Philosopher 2 : Eating meal number 11
+Philosopher 4 : Picked up left fork
+Philosopher 0 : Put down forks, back to thinking!
+Philosopher 0 : Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Picked up right fork
+Philosopher 4 : Eating meal number 9
+Philosopher 4 : Put down forks, back to thinking!
+Philosopher 4 : Thinking
+Philosopher 0 : Picked up left fork
+Philosopher 3 : Picked up left fork
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 2 : Thinking
+Philosopher 1 : Picked up right fork
+Philosopher 1 : Eating meal number 10
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 1 : Thinking
+Philosopher 0 : Picked up right fork
+Philosopher 0 : Eating meal number 9
+Philosopher 0 : Put down forks, back to thinking!
+Philosopher 4 : Picked up left fork
+Philosopher 0 : Thinking
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 13
+Philosopher 1 : Picked up left fork
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 2 : Picked up right fork
+Philosopher 3 : Thinking
+Philosopher 2 : Eating meal number 12
+Philosopher 4 : Picked up right fork
+Philosopher 4 : Eating meal number 10
+Philosopher 4 : Put down forks, back to thinking!
+Philosopher 0 : Picked up left fork
+Philosopher 4 : Thinking
+Philosopher 3 : Picked up left fork
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 1 : Picked up right fork
+Philosopher 2 : Thinking
+Philosopher 1 : Eating meal number 11
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 0 : Picked up right fork
+Philosopher 1 : Thinking
+Philosopher 0 : Eating meal number 10
+Philosopher 2 : Picked up left fork
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 14
+Philosopher 4 : Picked up left fork
+Philosopher 0 : Put down forks, back to thinking!
+Philosopher 0 : Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 4 : Picked up right fork
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 2 : Picked up right fork
+Philosopher 2 : Eating meal number 13
+Philosopher 4 : Eating meal number 11
+Philosopher 3 : Thinking
+Philosopher 4 : Put down forks, back to thinking!
+Philosopher 4 : Thinking
+Philosopher 0 : Picked up left fork
+Philosopher 1 : Picked up right fork
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 1 : Eating meal number 12
+Philosopher 2 : Thinking
+Philosopher 3 : Picked up left fork
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 15
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 0 : Picked up right fork
+Philosopher 2 : Picked up left fork
+Philosopher 1 : Thinking
+Philosopher 0 : Eating meal number 11
+Philosopher 4 : Picked up left fork
+Philosopher 0 : Put down forks, back to thinking!
+Philosopher 1 : Picked up left fork
+Philosopher 0 : Thinking
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 2 : Picked up right fork
+Philosopher 3 : Thinking
+Philosopher 2 : Eating meal number 14
+Philosopher 4 : Picked up right fork
+Philosopher 4 : Eating meal number 12
+Philosopher 4 : Put down forks, back to thinking!
+Philosopher 0 : Picked up left fork
+Philosopher 4 : Thinking
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 3 : Picked up left fork
+Philosopher 1 : Picked up right fork
+Philosopher 2 : Thinking
+Philosopher 1 : Eating meal number 13
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 16
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 3 : Thinking
+Philosopher 2 : Picked up left fork
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 0 : Picked up right fork
+Philosopher 1 : Thinking
+Philosopher 0 : Eating meal number 12
+Philosopher 0 : Put down forks, back to thinking!
+Philosopher 0 : Thinking
+Philosopher 4 : Picked up left fork
+Philosopher 4 : Picked up right fork
+Philosopher 4 : Eating meal number 13
+Philosopher 2 : Picked up right fork
+Philosopher 2 : Eating meal number 15
+Philosopher 3 : Picked up left fork
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 2 : Thinking
+Philosopher 1 : Picked up left fork
+Philosopher 2 : Picked up left fork
+Philosopher 4 : Put down forks, back to thinking!
+Philosopher 0 : Picked up left fork
+Philosopher 4 : Thinking
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 17
+Philosopher 3 : Put down forks, back to thinking!
+Philosopher 2 : Picked up right fork
+Philosopher 3 : Thinking
+Philosopher 2 : Eating meal number 16
+Philosopher 2 : Put down forks, back to thinking!
+Philosopher 1 : Picked up right fork
+Philosopher 2 : Thinking
+Philosopher 3 : Picked up left fork
+Philosopher 1 : Eating meal number 14
+Philosopher 1 : Put down forks, back to thinking!
+Philosopher 0 : Picked up right fork
+Philosopher 2 : Picked up left fork
+Philosopher 1 : Thinking
+Philosopher 0 : Eating meal number 13
+Philosopher 3 : Picked up right fork
+Philosopher 3 : Eating meal number 18
+Philosopher 2 : End of execution, meal eaten : 17
+Philosopher 4 : End of execution, meal eaten : 14
+Philosopher 1 : End of execution, meal eaten : 15
+Philosopher 0 : End of execution, meal eaten : 13
+Philosopher 3 : End of execution, meal eaten : 18

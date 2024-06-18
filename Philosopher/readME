@@ -1,0 +1,5 @@
+Local version of the dinning philosopher.
+
+To run, open a terminal in this folder. Compile the java files in the bin folder and run the Main:
+javac -d ./bin *.java
+java -cp ./bin Main
